@@ -1,6 +1,8 @@
 ## Circuit Python Gorillas
 
-![Gameplay photograph](photo.jpg)
+[Youtube Video](https://youtu.be/Q68VWkWRsdI)
+
+[![Gameplay photograph](photo.jpg)](https://youtu.be/Q68VWkWRsdI)
 
 This is a Circuit Python implementation of an old QBasic game called [Gorillas.bas](https://www.google.com/search?hl=en&q=gorillas.bas) It's was developed for the PyGamer device, but should work on PyBadge and perhaps some others.
 
